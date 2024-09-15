@@ -28,5 +28,5 @@ xlings book
 
 ```bash
 cd d2cpp
-xlings dslings
+xlings cpplings
 ```
