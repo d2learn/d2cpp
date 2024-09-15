@@ -1,0 +1,13 @@
+[book]
+title = "D2CPP | 动手学C++"
+author = "d2cpp contributors"
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/d2learn/d2cpp"
+
+[preprocessor.foo]
+# Add any additional configurations
